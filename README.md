@@ -36,7 +36,7 @@ DataSet2:  https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-
 
 ## Ducumentation ##
 
-- R2: Data Analysis
+- R2: <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/DataAnalysis.ipynb" target="_blank">Data Analysis</a>
 //100 words max description
 
 - R3: Clustering
