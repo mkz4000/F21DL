@@ -1,5 +1,5 @@
 # F21DL - Monday Dubai PG 11
-## Lung Cancer Analysis & Predection ##
+## Project: Lung Cancer Analysis & Predection ##
 
 - Payel Moishal (pm3009@hw.ac.uk)
 - Mohammed Bilal (bm3009@hw.ac.uk)
