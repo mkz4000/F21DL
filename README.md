@@ -36,16 +36,15 @@ DataSet2:  https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-
 
 ## Ducumentation ##
 
-- R2: <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/DataAnalysis.ipynb" target="_blank">Data Analysis</a>
-//100 words max description
+- R2: <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/DataAnalysis.ipynb" target="_blank">Data Analysis</a>
 
-- R3: <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Clustering.ipynb" _target="blank">Clustering</a>
-//100 words max description
+- R3: <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/Clustering.ipynb" _target="blank">Clustering</a>
 
 - R4: Basic classifiers and Decision Trees
-  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/DecisionTrees.ipynb" _target="blank">Decision Trees</a>
-  - Classifiers
-//100 words max description
+  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/DecisionTrees.ipynb" _target="blank">Decision Trees</a>
+  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/Classifiers.ipynb" _target="blank">Classifiers</a>
 
-- R5: Neural Networks ( &CNN)
-//100 words max description
+- R5: Neural Networks (&CNN)
+  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/Perceptron.ipynb" _target="blank">Perceptrons</a>
+  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/MLP.ipynb" _target="blank">MLP</a>
+  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/CNN.ipynb" _target="blank">CNN</a>
