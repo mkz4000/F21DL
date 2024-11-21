@@ -1,11 +1,28 @@
-# F21DL
-## Group 11 ##
+# F21DL - Monday Dubai PG 11
+## Project: Lung Cancer Analysis & Predection ##
 
 - Payel Moishal (pm3009@hw.ac.uk)
 - Mohammed Bilal (bm3009@hw.ac.uk)
 - Abdullah (aa4030@hw.ac.uk)
 - Husam (hi2005@hw.ac.uk)
 - Mohammed Zannella (mkz4000@hw.ac.uk)
+
+## Objective ##
+The main objective is to validate if indeed patient characteristics can give good predictions on on lung cancer levels, and and answer demanding questions like:
+- How do environmental, genetic, and lifestyle factors influence the prediction and severity of lung cancer?
+- Which specific features (such as smoking, air pollution, genetic risk, and chronic lung disease) serve as the most significant predictors of lung cancer levels?
+
+Also part of the project objectives is to validate the below hypothesis or conceptions assumed about lung cancer:
+1. There is a significant relationship between patient characteristics (such as smoking, exposure to air pollution, genetic risk, and chronic lung disease) and the severity level of lung cancer. (This will be indicated by the predction scores of the classifiers utilized)
+2. Lifestyle factors such as alcohol consumption, obesity, and lack of a balanced diet contribute to the progression and severity of lung cancer. (This can be determined by calculating the importance of these features in the studied dataset)
+3. Symptoms like chronic coughing, shortness of breath, and chest pain are strong indicators of advanced cancer stages. (This can be determined by calculating the importance of these features in accordnace with advanced level label in the studied dataset)
+
+
+## Milestones ##
+We devided our project into 3 mile stones mainly:
+- Milestone 1: Data Processing and Clustering. Week 5 - Week 6
+- Milestone 2: Machine Learning Models and Neurel Network Implementation. Week 7 - Week 9
+- Milestone 3: Report, Submission, and Presentation. Week 10  - Week 12
 
 ## PowerPoint Presentation Link ##
 
@@ -17,6 +34,18 @@ DataSet1:  https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air
 
 DataSet2:  https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data
 
-## Course Work Guidelines ##
+## Ducumentation ##
 
-https://canvas.hw.ac.uk/courses/28912/files/3687141?wrap=1
+- R2: <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/DataAnalysis.ipynb" target="_blank">Data Analysis</a>
+//100 words max description
+
+- R3: <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Clustering.ipynb" _target="blank">Clustering</a>
+//100 words max description
+
+- R4: Basic classifiers and Decision Trees
+  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/DecisionTrees.ipynb" _target="blank">Decision Trees</a>
+  - Classifiers
+//100 words max description
+
+- R5: Neural Networks ( &CNN)
+//100 words max description
