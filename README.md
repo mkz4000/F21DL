@@ -3,9 +3,9 @@
 
 - Payel Moishal (pm3009@hw.ac.uk)
 - Mohammed Bilal (bm3009@hw.ac.uk)
-- Abdullah (aa4030@hw.ac.uk)
-- Husam (hi2005@hw.ac.uk)
-- Mohammed Zannella (mkz4000@hw.ac.uk)
+- Abdullah Allami (aa4030@hw.ac.uk)
+- Husam Isied (hi2005@hw.ac.uk)
+- Mohammed Zanella (mkz4000@hw.ac.uk) - H00490105
 
 ## Objective ##
 The main objective is to validate if indeed patient characteristics can give good predictions on on lung cancer levels, and and answer demanding questions like:
