@@ -43,6 +43,8 @@ DataSet2:  https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-
 //100 words max description
 
 - R4: Basic classifiers and Decision Trees
+  - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/DecisionTrees.ipynb" _target="blank">Decision Trees</a>
+  - Classifiers
 //100 words max description
 
 - R5: Neural Networks ( &CNN)
