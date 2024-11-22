@@ -43,6 +43,7 @@ DataSet2:  https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-
 - R4: Basic classifiers and Decision Trees
   - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/DecisionTrees.ipynb" _target="blank">Decision Trees</a>
   - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/BasicClassifiers.ipynb" _target="blank">Basic Classifiers</a>
+  includes 1. k-Nearest Neighbors classifier 2.Logistic Regression Classifier 3.Naive Bayes classifier 4.Stochastic Gradient Descent 
 
 - R5: Neural Networks (&CNN)
   - <a href="https://github.com/mkz4000/Mon_Dubai_PG_11/blob/main/Notebooks/Perceptron.ipynb" _target="blank">Perceptrons</a>
