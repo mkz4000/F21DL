@@ -26,7 +26,7 @@ We devided our project into 3 mile stones mainly:
 
 ## PowerPoint Presentation Link ##
 
-https://docs.google.com/presentation/d/1st3EUqaHksIDlOJ5GdCmlw15vdIkkfkXzIdx528Cyzk/edit?usp=sharing
+https://docs.google.com/presentation/d/1bYnZOssgR6lAx1LGCk0Y6ltWKPE6yMuc/edit#slide=id.g31965eff15d_2_42
 
 ## Data Sets ##
 
